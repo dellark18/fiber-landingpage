@@ -1,0 +1,50 @@
+.body {
+  margin: 10px 100px 0;
+  background-color: #fbf8f3;
+}
+
+.header-background {
+  background-color: #fbf8f3;
+}
+
+.navbar-nav {
+  margin-left: 350px;
+}
+
+.nav-item {
+  padding-right: 10px;
+}
+
+.header-button {
+  margin-left: 200px;
+}
+
+.sign-up-button {
+  background-color: #4d13d1;
+  border-color: #4d13d1;
+}
+
+.sign-in {
+  text-decoration: none;
+  padding-right: 20px;
+  color: #000000;
+}
+.sign-in:hover {
+  color: #000000;
+}
+
+/* Row1 */
+.row-header {
+  margin-top: 100px;
+}
+
+h1 {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 3em;
+  font-weight: bold;
+}
+/* Container2 */
+.container2 {
+  background-color: #ffffff;
+  height: 100px;
+}
