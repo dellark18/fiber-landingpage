@@ -51,6 +51,7 @@ h1 {
 .container2 {
   background-color: #ffffff;
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 #section2 {
@@ -70,4 +71,37 @@ h6 {
 .blue-text {
   padding-left: 50px;
   margin: 70px 0 100px;
+}
+
+/* Container3 */
+.card {
+  margin-top: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-container {
+  padding: 20px 20px 20px;
+}
+
+.profile-view-btn {
+  background-color: #ffffff;
+  color: #4d13d1;
+  border-color: #4B4A48;
+  margin-top: 10px;
+}
+
+/* Footer */
+.footer {
+  margin: 10px 100px 0;
+  margin-top: 50px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
 }
