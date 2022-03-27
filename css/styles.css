@@ -1,6 +1,10 @@
 .body {
-  margin: 10px 100px 0;
   background-color: #fbf8f3;
+}
+
+#menu {
+  margin: 10px 100px 0;
+  padding-bottom: 60px;
 }
 
 .header-background {
@@ -46,5 +50,24 @@ h1 {
 /* Container2 */
 .container2 {
   background-color: #ffffff;
-  height: 100px;
+  padding-top: 50px;
+}
+
+#section2 {
+  margin: 10px 100px 0;
+}
+
+h6 {
+  margin-top: 12px;
+}
+
+.blue-bg {
+  background-color: #4d13d1;
+  margin-top: 60px;
+  padding-top: 100px;
+}
+
+.blue-text {
+  padding-left: 50px;
+  margin: 70px 0 100px;
 }
