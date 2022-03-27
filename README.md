@@ -1,5 +1,5 @@
 # fiber-landingpage
-This is a landing pape that has tow pages which are; "Homepage and Sign Up"
+This is a landing pape that has two pages which are; "Homepage and Sign Up"
 
 NOTE: This project is for practice purposes to sharpen my front end skills in html, css and javascript. Thank you.
 
